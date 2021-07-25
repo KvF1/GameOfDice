@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GameOfDice">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/GameOfDice_jar/GameOfDice.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
