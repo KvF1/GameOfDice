@@ -1,0 +1,2 @@
+# GameOfDice
+Multiplayer dice game
